@@ -16,6 +16,11 @@ La hamburguesa debe ser el objeto protagonista. El aura y la D del logo funciona
 - `docs/brand/divine-burger-prompt-pack.md` - prompts para exploración visual realista/cinematográfica.
 - `docs/brand/divine-burger-evaluation-rubric.md` - rúbrica para evaluar conceptos.
 - `docs/brand/divine-burger-creative-presentation.md` - narrativa para presentar la dirección creativa.
+- `docs/brand/divine-d-avatar-usage.md` - guía de uso del avatar institucional Divine.
+
+## Activos
+
+- `assets/brand/avatar/divine-d-avatar-v1.png` - avatar institucional con D y aureola.
 
 ## Regla Central
 
