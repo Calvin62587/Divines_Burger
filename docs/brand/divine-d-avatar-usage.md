@@ -8,6 +8,27 @@ Archivo base:
 
 Este avatar es la versión institucional del carácter **Divine**: una D caligráfica con aureola, sin punto lateral, sin rostro, sin cuerpo y sin elementos caricaturescos.
 
+## Kit de Archivos
+
+Versiones listas para uso:
+
+- `assets/brand/avatar/kit/divine-d-avatar-profile-1080.png` - perfil principal para Instagram, TikTok, WhatsApp Business y Facebook.
+- `assets/brand/avatar/kit/divine-d-avatar-profile-512.png` - perfil liviano para herramientas internas o plataformas que comprimen fuerte.
+- `assets/brand/avatar/kit/divine-d-avatar-transparent.png` - versión con transparencia para video, fotografía, reels y overlays.
+- `assets/brand/avatar/kit/divine-d-avatar-watermark.png` - marca de agua reducida para esquina de videos.
+- `assets/brand/avatar/kit/divine-d-avatar-sticker-seal.png` - sticker/sello circular para historias, empaques y WhatsApp.
+- `assets/brand/avatar/kit/divine-d-avatar-packaging-stamp.png` - sello oscuro sobre fondo crema para empaque, menú y papelería.
+- `assets/brand/avatar/kit/divine-d-avatar-icon-256.png` - icono grande para web/app.
+- `assets/brand/avatar/kit/divine-d-avatar-icon-128.png` - icono mediano para web/app.
+- `assets/brand/avatar/kit/divine-d-avatar-icon-64.png` - icono pequeño para web/app.
+- `assets/brand/avatar/kit/divine-d-avatar-icon-32.png` - favicon o uso mínimo.
+
+Previews de control:
+
+- `assets/brand/avatar/kit/divine-d-avatar-transparent-preview.jpg`
+- `assets/brand/avatar/kit/divine-d-avatar-watermark-preview.jpg`
+- `assets/brand/avatar/kit/divine-d-avatar-sticker-seal-preview.jpg`
+
 ## Rol de Marca
 
 La D con aureola funciona como:
@@ -79,12 +100,13 @@ Ejemplos:
 
 Para usar el avatar en todo el proyecto, se deben preparar estas versiones:
 
-- **PNG principal:** fondo oscuro, uso general.
-- **PNG transparente:** para sobreponer en video, fotos y empaques.
-- **Avatar cuadrado:** Instagram, TikTok, WhatsApp Business.
-- **Marca de agua:** versión pequeña, menos brillo, alto contraste.
-- **Sticker:** borde definido para historias, empaques y WhatsApp.
-- **Animación corta:** D aparece con humo, aureola se ilumina y queda fija.
+- **PNG principal:** ya disponible como `divine-d-avatar-profile-1080.png`.
+- **PNG transparente:** ya disponible como `divine-d-avatar-transparent.png`.
+- **Avatar cuadrado:** ya disponible en 1080 px y 512 px.
+- **Marca de agua:** ya disponible como `divine-d-avatar-watermark.png`.
+- **Sticker:** ya disponible como `divine-d-avatar-sticker-seal.png`.
+- **Sello de empaque:** ya disponible como `divine-d-avatar-packaging-stamp.png`.
+- **Animación corta:** pendiente. Debe mostrar la D apareciendo con humo y la aureola encendiéndose.
 
 ## Criterio Final
 

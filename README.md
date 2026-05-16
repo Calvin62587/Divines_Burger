@@ -21,6 +21,7 @@ La hamburguesa debe ser el objeto protagonista. El aura y la D del logo funciona
 ## Activos
 
 - `assets/brand/avatar/divine-d-avatar-v1.png` - avatar institucional con D y aureola.
+- `assets/brand/avatar/kit/` - kit listo para perfiles, video, marca de agua, sticker, sello e iconos.
 
 ## Regla Central
 
